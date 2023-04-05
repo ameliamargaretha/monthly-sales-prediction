@@ -1,4 +1,4 @@
-# monthly-sales-prediction
+# Monthly Sales Prediction using LSTM
 
 by: Amelia Margaretha (152236035100-393)
 
